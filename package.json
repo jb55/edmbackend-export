@@ -1,0 +1,6 @@
+{
+  "name": "edmexport",
+  "devDependencies": {
+    "jb55-json2csv": "^3.0.0"
+  }
+}
