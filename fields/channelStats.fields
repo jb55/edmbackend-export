@@ -1,0 +1,10 @@
+_id.$oid
+channelName
+channelId
+data.hiddenSubscriberCount
+data.subscriberCount
+data.videoCount
+data.viewCount
+ver
+created.$date
+__v
